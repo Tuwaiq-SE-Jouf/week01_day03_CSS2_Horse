@@ -1,0 +1,57 @@
+.div-1 {
+    background-color:rgb(247, 247,220);
+    width: 700px;
+    padding: 8px;
+    border: 5px solid rgb(137,111,30);
+    margin: auto;
+
+
+}
+/* learn about border:
+https://www.w3schools.com/css/css_border.asp 
+*/
+    img {
+        border: 10px solid rg(177, 111, 36);
+        width: 600px;
+
+        display: block; /* Center image*/
+        margin: 3em;
+
+    }
+h1{
+    font-weight: bold;
+    font-size: 40px ;
+    margin: 20px ;
+
+}
+p{
+    font-size: 20px;
+}
+#PR1{
+    font-weight:bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+#PR2{
+    font-weight:bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+/* learn about border:
+https://www.w3schools.com/css/css_border.asp 
+*/
+
+#PR123{
+    background-color: yellow;
+    border: 7px dashed rgb(230,152,64);
+    width: 590px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 220px;
+    overflow-y: scroll;
+
+}
+
+
+

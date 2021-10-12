@@ -1,0 +1,35 @@
+#maindiv{
+    background-color:rgb(253, 241, 203);
+    border: darkred 3px solid ;
+    margin: 0 25% 0 25%;
+}
+img{
+    width: 650px;
+    display: block;
+    margin: auto;
+    border: 8px solid orange;
+    /* I learend how to do it from this website https://www.w3schools.com/cssref/pr_border-style.asp*/
+    border-style: outset;
+}
+
+#theContact{
+
+    border: dashed 7px orange ;
+    margin: 4%;
+    text-align: center;
+    background-color: lightblue;
+    width: 650px;
+    height: 200px;
+    /*I learend how to do it from this website https://www.w3schools.com/cssref/pr_pos_overflow.asp*/
+    overflow: scroll;
+    display:block;
+    margin: auto;
+    margin-top: 3%;
+    background-color: yellow;
+
+
+}
+
+h1{
+    padding-left: 3%;
+}

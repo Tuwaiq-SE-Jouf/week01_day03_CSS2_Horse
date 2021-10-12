@@ -1,0 +1,53 @@
+/*  Njoud Aldarbas */
+/*style for entier page */
+.div-page {
+    background-color: rgb(247, 247, 220);
+    width: 700px;
+    padding: 8px;
+    border: 5px solid rgb(173, 106, 30);
+    margin: auto ;
+}
+/* Learn about border Type
+https://www.w3schools.com/css/css_border.asp */
+img {
+    border: 8px solid rgb(177, 111, 36);
+    width: 555px;
+    display: block; /*  to center the image */
+    margin: 1em auto;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px;
+}
+
+p {
+    font-size: 15px;
+}
+/* Learn Text-Decoration from
+https://www.w3schools.com/css/css_text_decoration.asp*/
+#firstpragraph {
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+#secondparagraph {
+    font-weight: bold;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+/* Learn about border Type
+https://www.w3schools.com/css/css_border.asp */
+#prgraph {
+    background-color: yellow;
+    border: 7px dashed rgb(230, 152, 64); 
+    width: 555px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    overflow-y: scroll;
+}

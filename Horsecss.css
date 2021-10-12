@@ -1,0 +1,50 @@
+
+.myDiv {
+  border: 5px solid rgb(131, 100, 33);
+ background-color: rgb(242, 250, 211); 
+ text-align: center;
+ width: 40%;
+ height: 20%;
+ margin: auto;
+ border-width: 4px;
+} 
+
+.myDiv h1 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+img {
+    border: 5px outset orange;
+    border-width: 6px;
+    width: 95%;
+    height: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display: block;
+  }
+  
+/* scrollbar */
+  .visible-scrollbar, .invisible-scrollbar, .mostly-customized-scrollbar {
+    border-style: dashed;
+    border-width: 8px;
+    border-color: orange;
+    background-color: yellow;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    display: block;
+  width: 94%;
+  overflow: auto;
+  height: 300px;
+}
+
+.invisible-scrollbar::-webkit-scrollbar {
+  display: none;
+}
